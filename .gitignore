@@ -1,0 +1,26 @@
+# Виртуальное окружение
+venv/
+.env
+
+# Локальные учётные данные
+.login_credentials.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+.qwen
+tests/
